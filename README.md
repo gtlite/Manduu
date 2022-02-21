@@ -10,6 +10,7 @@ Etec ZL - DS
   felicidade
   alegria rapaziada
   guilhermer monfardini
+  guilhermer freitas de oliveira, mais conhecido como arsenal.
   bruce yuzuka
   gustavo ferreira
   ovo: maltine

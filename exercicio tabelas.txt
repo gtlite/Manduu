@@ -1,0 +1,26 @@
+
+create database Loja;
+create table produto
+nome varchar(182) not null,
+create table precos
+nome varchar(182) not null,
+create table id PK
+nome varchar(182) not null,
+create table marcas
+nome varchar(182) not null,
+create table quantidade
+nome varchar(182) not null,
+create table fornecedor
+nome varchar(182) not null,
+create table logistica 
+nome varchar(182) not null,
+create table nome
+nome varchar(182) not null,
+create table telefone
+nome varchar(182) not null,
+create table CNPJ
+nome varchar(182) not null,
+create table endereço
+nome varchar(182) not null,
+
+
